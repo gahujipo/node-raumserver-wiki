@@ -10,9 +10,9 @@ _not ready yet_
 _not ready yet_
 
 ### Using the Server
-* [How to use the server](_not ready yet_)  
+* [How to use the server](_not-ready-yet_)  
 _not ready yet_
-* [View available control and data requests](_not ready yet_)  
+* [View available control and data requests](_not-ready-yet_)  
 _not ready yet_
 
 [Readme](https://github.com/ChriD/node-raumserver/blob/master/README.md)  
