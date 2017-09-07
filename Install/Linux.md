@@ -4,13 +4,23 @@
 Please use with node version 7.x or above. You can do that by using [nodesource.com]()s bash script that you can directly download and launch by issuing the follwoing commands: 
 
 ```bash
+# Using Ubuntu
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
-sudo apt install nodejs
+sudo apt-get install -y nodejs
+
+# Using Debian, as root
+curl -sL https://deb.nodesource.com/setup_7.x | bash -
+apt-get install -y nodejs
 ```
 or if you prefer for version 8 of nodejs
 ```bash
+# Using Ubuntu
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
-sudo apt-get install nodejs
+sudo apt-get install -y nodejs
+
+# Using Debian, as root
+curl -sL https://deb.nodesource.com/setup_8.x | bash -
+apt-get install -y nodejs
 ```
 
 With the installation comes npm, **N**odeJSs **P**acket **M**anager. We will use npm to install node-raumserver itself.
