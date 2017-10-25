@@ -13,6 +13,7 @@ _not ready yet_
 
 ### Using the Server
 * [Logging](Use/Logging.md)
+* [Power on and power off](Use/Standby.md)
 * [How to use the server](_not-ready-yet_)  
 _not ready yet_
 * [View available control and data requests](_not-ready-yet_)  
