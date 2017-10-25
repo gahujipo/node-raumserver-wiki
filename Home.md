@@ -12,6 +12,7 @@ _not ready yet_
 * [Manual install on a Linux operation system](Install/Linux.md)
 
 ### Using the Server
+* [Logging](Use/Logging.md)
 * [How to use the server](_not-ready-yet_)  
 _not ready yet_
 * [View available control and data requests](_not-ready-yet_)  
