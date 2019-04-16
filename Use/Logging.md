@@ -21,7 +21,23 @@ in this case raumserver would expect the logs folder in the current working dire
 After creating the logs folder, node-raumserver has to be restarted to apply the logging. 
 
 ## Define a loglevel
-_TODO_
+The loglevel is specified in the file _config/default.json_. E.g.
+```JSON
+{
+    "raumserver": {
+        //...
+        "loglevel" : 2 
+    }
+    //...
+}
+```
+
+### 0=error
+### 1=warnings
+### 2=info
+### 3=verbose 
+### 4=debug
+### 5=silly
 
 ## Log rotation
 _TODO_
