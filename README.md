@@ -3,8 +3,6 @@ Raumserver is a webserver which is used to control the Raumfeld Multiroom System
 ## Getting started
 Before starting make sure your Raumfeld system has Spotify's multiroom mode enabled even if you have only one speaker. [Otherwise raumserver won't fully work](https://github.com/ChriD/node-raumserver/issues/36). To do so, open the Raumfeld app on your mobile device. Click the three dashes on the upper left corner, select **Spotify** and next to **MULTIROOM MODE** shift the switch to On, so it gets orange colored.
 ### Install
-* [Install on Raumfeld device via installer application](not-ready-yet)  
-_not ready yet_
 * [Manual install on windows operating system](not-ready-yet)  
 _not ready yet_
 * [Manual install on raumfeld devices](not-ready-yet)  
