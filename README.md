@@ -9,6 +9,8 @@ _not ready yet_
 _not ready yet_
 * [Manual install on a Linux operation system](Install/Linux.md)
 
+There won't be an executable installer: [#16](https://github.com/ChriD/node-raumserver/issues/16) 
+
 ### Using the Server
 * [Logging](Use/Logging.md)
 * [Power on and power off](Use/Standby.md)
