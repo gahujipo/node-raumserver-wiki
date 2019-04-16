@@ -8,6 +8,7 @@ _not ready yet_
 * [Manual install on raumfeld devices](not-ready-yet)  
 _not ready yet_
 * [Manual install on a Linux operation system](Install/Linux.md)
+* [Updates](Install/Updates.md)
 
 There won't be an executable installer: [#16](https://github.com/ChriD/node-raumserver/issues/16) 
 
