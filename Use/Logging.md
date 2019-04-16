@@ -16,9 +16,9 @@ mkdir logs
 cd /home/user/
 node raumserver/node_modules/node_raumserver/raumserver.js
 ```
-in this case raumserver would expect the logs folder in the curretn working directory, which in the above example would be _/home/user/logs_
+in this case raumserver would expect the logs folder in the current working directory, which in the above example would be _/home/user/logs_
 
-After creating the logs folder node-raumserver has to be restarted to start logging. 
+After creating the logs folder, node-raumserver has to be restarted to apply the logging. 
 
 ## Define a loglevel
 _TODO_
