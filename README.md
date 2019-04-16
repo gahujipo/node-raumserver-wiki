@@ -19,5 +19,5 @@ _not ready yet_
 * [View available control and data requests](_not-ready-yet_)  
 _not ready yet_
 
-[Readme](https://github.com/ChriD/node-raumserver/blob/master/README.md)  
+[Official Readme](https://github.com/ChriD/node-raumserver/blob/master/README.md)  
 [Changelog](https://github.com/ChriD/node-raumserver/releases)  
